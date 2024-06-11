@@ -1,20 +1,20 @@
 # To-do list
 
 ### Technologies Used:
-HTML
+    HTML
 
-CSS
+    CSS
 
-JavaScript
+    JavaScript
 
-Local Storage
+    Local Storage
 
 
 ### Key Features:
-Add new tasks
+    Add new tasks
 
-Mark tasks as complete
+    Mark tasks as complete
 
-Delete tasks
+    Delete tasks
 
-Persistent data storage with local storage
+    Persistent data storage with local storage
